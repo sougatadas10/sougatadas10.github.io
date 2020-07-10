@@ -1,5 +1,13 @@
 # Sougata Das
-- Skills
+## DevOps Architect
+
+
+- Proficiency
+- Educational Qualifications
+
+
+1. Hobby
+2. 
 
 ### Markdown
 
